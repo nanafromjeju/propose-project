@@ -24,7 +24,7 @@ body.night {
 .base {
   position: absolute;
   bottom: 0px;
-  width: 50px;
+  width: 60px;
   background-color: #e7d4b5;
   box-shadow: 0 8px 5px rgba(0, 0, 0, 0.1);
 }
@@ -65,7 +65,7 @@ body.night {
 
 .leg-top {
   left: 50%;
-  height: 70px;
+  height: 90px;
   width: 60px;
   bottom: 260px;
   background-color: #e7d4b5;
@@ -417,7 +417,7 @@ body.night {
   background-color: white;
   border-radius: 50%;
   box-shadow: 0 0 10px white;
-  animation: firework-launch 1s ease-out forwards;
+  animation: firework-launch 1.3s ease-out forwards;
 }
 
 @keyframes firework-launch {
