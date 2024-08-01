@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
 body {
   display: flex;
   justify-content: center;
@@ -147,7 +149,7 @@ body.night {
 
 .plane {
   position: absolute;
-  animation: fly 10s linear infinite;
+  animation: fly 4s linear infinite;
   left: -110px;
 }
 
@@ -515,11 +517,9 @@ body.night .theme-toggle .moon {
   transform: rotate(0);
 }
 
-@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
-
 .banner-container {
   position: absolute;
-  animation: fly 10s linear infinite;
+  animation: fly 4s linear infinite;
 }
 
 .rope {
